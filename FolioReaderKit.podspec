@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "FolioReaderKit"
-  s.version          = "1.3.0"
+  s.version          = "1.4.0"
   s.summary          = "A Swift ePub reader and parser framework for iOS."
   s.description  = <<-DESC
                    Written in Swift.
@@ -36,6 +36,6 @@ Pod::Spec.new do |s|
   s.dependency 'AEXML', '4.2.2'
   s.dependency 'FontBlaster', '4.0.1'
   s.dependency 'JSQWebViewController', '6.0.0'
-  s.dependency 'RealmSwift', '3.1.1'
+  s.dependency 'RealmSwift', '3.9.0'
 
 end
